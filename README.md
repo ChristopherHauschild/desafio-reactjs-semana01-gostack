@@ -11,7 +11,7 @@
 :information_source: <i>Códigos desenvolvidos durante o desafio Frontend com React.js, na primeira semana do Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
 <p align="justify">
-Esse desafio tem como objetivo fixar os conhecimentos em React.js aprendidos até o presente momento no Bootcamp. A mesma consiste numa aplicação a aplicação que irá armazenar repositórios do seu portfólio, utilizando o backend desenvolvido com Node.js no [último desafio](https://github.com/ChristopherHauschild/desafio-nodejs-semana01-gostack/).
+Esse desafio tem como objetivo fixar os conhecimentos em React.js aprendidos até o presente momento no Bootcamp. A mesma consiste numa aplicação a aplicação que irá armazenar repositórios do seu portfólio, utilizando o backend desenvolvido com Node.js no <a href="https://github.com/ChristopherHauschild/desafio-nodejs-semana01-gostack/" target='_blank'>último desafio</a>.
 </p>
 
 ## :rocket: Funcionalidades da aplicação:

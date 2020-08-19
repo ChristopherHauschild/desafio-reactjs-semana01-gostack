@@ -3,7 +3,7 @@
 </div> <br />
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=reactjs&message=backend&color=informational&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=reactjs&message=frontend&color=informational&style=for-the-badge&logo=REACT"/>
 </div>
 
 # <p align="center">Desafio - Frontend com React.js</p>
@@ -11,7 +11,7 @@
 :information_source: <i>Códigos desenvolvidos durante o desafio Frontend com React.js, na primeira semana do Bootcamp GoStack 13, ofertado pela plataforma de ensino [Rocketseat](https://rocketseat.com.br/).</i>
 
 <p align="justify">
-Esse desafio tem como objetivo fixar os conhecimentos em React.js aprendidos até o presente momento no Bootcamp. A mesma consiste numa aplicação a aplicação que irá armazenar repositórios do seu portfólio, utilizando o backend desenvolvido com Node.js no [último desafio](https://github.com/ChristopherHauschild/desafio-nodejs-semana01-gostack/blob/master/README.md).
+Esse desafio tem como objetivo fixar os conhecimentos em React.js aprendidos até o presente momento no Bootcamp. A mesma consiste numa aplicação a aplicação que irá armazenar repositórios do seu portfólio, utilizando o backend desenvolvido com Node.js no último [desafio](https://github.com/ChristopherHauschild/desafio-nodejs-semana01-gostack/blob/master/README.md).
 </p>
 
 ## :rocket: Funcionalidades da aplicação:
